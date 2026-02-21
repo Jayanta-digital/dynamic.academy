@@ -2,6 +2,10 @@
    PRAGYA VALLEY ACADEMY - MAIN STYLESHEET
    Soft, Eye-Friendly Color Scheme
    ============================================ */
+/*This will force to always open in desktop mood*/
+body {
+    min-width: 1280px;
+}
 
 /* ===== RESET & VARIABLES ===== */
 * {
