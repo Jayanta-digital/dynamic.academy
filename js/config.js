@@ -395,7 +395,7 @@ const CONFIG = {
         lastDate:        "March 31, 2025",
         earlyBirdDate:   "March 31, 2025",
         seats: { arts: 40, science: 45, commerce: 30 },
-        enquiryFormEmbed: "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true",
+        enquiryFormEmbed: "https://docs.google.com/forms/d/e/1FAIpQLSeKg_NN4U8iosxQkB4he_zwOMA1VL4i9_pUUIU1OeoPLaAfig/viewform?embedded=true",
         contactFormEmbed: "https://docs.google.com/forms/d/e/YOUR_CONTACT_FORM_ID/viewform?embedded=true",
     },
 
