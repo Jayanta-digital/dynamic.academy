@@ -1,0 +1,218 @@
+{
+  "_demoId": "sample-school",
+
+  "school": {
+    "name":        "Sunrise Higher Secondary Academy",
+    "shortName":   "SHSA",
+    "tagline":     "Illuminating Minds Since 2005",
+    "description": "Sunrise Higher Secondary Academy offers top-tier coaching in Arts, Science & Commerce. AHSEC Affiliated. Admissions open for 2025-26.",
+    "established": "2005",
+    "affiliation": "AHSEC",
+    "boardCode":   "18099",
+
+    "hero": {
+      "badge":     "#1 AHSEC Results in Nagaon",
+      "heading":   "Bright Minds",
+      "highlight": "Brilliant Futures",
+      "subtext":   "Join Sunrise Academy for expert coaching in Arts, Science & Commerce. 95%+ board results. Admissions open for 2025-26.",
+      "btn1Text":  "Apply Now",
+      "btn1Link":  "admission.html",
+      "btn2Text":  "Download Brochure",
+      "btn2Link":  "https://drive.google.com/uc?export=download&id=SAMPLE_BROCHURE_ID",
+      "infoBadge": "AHSEC Affiliated"
+    },
+
+    "contact": {
+      "phone":    "+91 98765 43210",
+      "phone2":   "+91 98765 43211",
+      "email":    "info@sunriseacademy.edu.in",
+      "email2":   "admissions@sunriseacademy.edu.in",
+      "whatsapp": "919876543210",
+      "hours":    "Mon–Sat: 8 AM – 5 PM"
+    },
+
+    "location": {
+      "address":     "Station Road, Nagaon",
+      "city":        "Nagaon",
+      "state":       "Assam",
+      "pincode":     "782001",
+      "landmark":    "Near Nagaon Railway Station",
+      "fullAddress": "Station Road, Nagaon, Assam – 782001",
+      "mapEmbed":    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57410.14!2d92.6833!3d26.3465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37540010c0aa7fed%3A0xc0b3c7b0e6f2b7a0!2sNagaon%2C%20Assam!5e0!3m2!1sen!2sin!4v1620000000000",
+      "googleMapsUrl": "https://maps.google.com/?q=Nagaon,Assam"
+    },
+
+    "social": {
+      "facebook":  "https://facebook.com/sunriseacademy",
+      "instagram": "https://instagram.com/sunriseacademy",
+      "youtube":   "https://youtube.com/sunriseacademy",
+      "linkedin":  "#",
+      "twitter":   "#"
+    }
+  },
+
+  "branding": {
+    "logo":      "https://ui-avatars.com/api/?name=SHSA&background=0d3b66&color=ffd700&size=200&font-size=0.4&bold=true",
+    "logoWhite": "https://ui-avatars.com/api/?name=SHSA&background=1a2a4a&color=ffffff&size=200&font-size=0.4&bold=true",
+    "favicon":   "",
+    "hero":      "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "about":     "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "infrastructure": [
+      { "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800", "title": "Smart Classrooms",  "desc": "Digital learning with smart boards", "large": true },
+      { "url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800", "title": "Library",          "desc": "8,000+ books and e-resources",      "large": false },
+      { "url": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?w=800", "title": "Science Lab",      "desc": "Fully equipped Physics & Chem lab",  "large": false },
+      { "url": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=800", "title": "Computer Center", "desc": "80 systems with high-speed internet",  "large": false }
+    ]
+  },
+
+  "people": {
+    "principal": {
+      "name":          "Dr. Anita Sharma",
+      "designation":   "Principal",
+      "qualification": "Ph.D. – Gauhati University",
+      "experience":    "20+ years",
+      "photo":         "https://randomuser.me/api/portraits/women/48.jpg",
+      "message":       "Our goal is to nurture every student's potential and prepare them for a life of excellence."
+    },
+    "director": {
+      "name":          "Mr. Bimal Hazarika",
+      "designation":   "Founder & Director",
+      "qualification": "M.Sc., B.Ed",
+      "experience":    "25+ years",
+      "photo":         "https://randomuser.me/api/portraits/men/55.jpg",
+      "message":       "Education transforms lives. We are committed to giving every student the best possible start."
+    }
+  },
+
+  "teachers": [
+    {
+      "name":          "Prof. Deepak Nath",
+      "subject":       "Physics HOD",
+      "qualification": "M.Sc. Physics, NET",
+      "experience":    "16+ years",
+      "photo":         "https://randomuser.me/api/portraits/men/41.jpg",
+      "stream":        "science",
+      "showOnHome":    true
+    },
+    {
+      "name":          "Dr. Rima Borah",
+      "subject":       "Chemistry",
+      "qualification": "Ph.D. Chemistry",
+      "experience":    "14+ years",
+      "photo":         "https://randomuser.me/api/portraits/women/62.jpg",
+      "stream":        "science",
+      "showOnHome":    true
+    },
+    {
+      "name":          "Prof. Santosh Das",
+      "subject":       "Accountancy Expert",
+      "qualification": "M.Com, CA (Inter)",
+      "experience":    "12+ years",
+      "photo":         "https://randomuser.me/api/portraits/men/33.jpg",
+      "stream":        "commerce",
+      "showOnHome":    true
+    },
+    {
+      "name":          "Prof. Kaberi Gogoi",
+      "subject":       "Political Science",
+      "qualification": "M.A., M.Phil",
+      "experience":    "11+ years",
+      "photo":         "https://randomuser.me/api/portraits/women/70.jpg",
+      "stream":        "arts",
+      "showOnHome":    true
+    }
+  ],
+
+  "streams": {
+    "arts":     true,
+    "science":  true,
+    "commerce": true
+  },
+
+  "notices": [
+    {
+      "id":          1,
+      "title":       "Admissions Open 2025-26 – Arts, Science & Commerce",
+      "date":        "2025-02-10",
+      "category":    "Admission",
+      "description": "Applications are now open for Class 11. Limited seats. Apply before March 31, 2025.",
+      "pdfUrl":      "https://drive.google.com/file/d/SAMPLE_PDF_ID_1/view",
+      "isImportant": true
+    },
+    {
+      "id":          2,
+      "title":       "AHSEC Class 12 Practical Exam Schedule",
+      "date":        "2025-01-20",
+      "category":    "Examination",
+      "description": "AHSEC has released the practical exam schedule for Class 12. Download to check your dates.",
+      "pdfUrl":      "https://drive.google.com/file/d/SAMPLE_PDF_ID_2/view",
+      "isImportant": true
+    },
+    {
+      "id":          3,
+      "title":       "Annual Merit Scholarship Test – March 5, 2025",
+      "date":        "2025-01-28",
+      "category":    "Scholarship",
+      "description": "Meritorious students can avail up to 100% fee waiver. Register now.",
+      "pdfUrl":      "#",
+      "isImportant": true
+    },
+    {
+      "id":          4,
+      "title":       "Parent-Teacher Meeting – February 28",
+      "date":        "2025-02-05",
+      "category":    "Event",
+      "description": "PTM for Class 11 students. Please ensure attendance.",
+      "pdfUrl":      "#",
+      "isImportant": false
+    },
+    {
+      "id":          5,
+      "title":       "Result 2024 – 97% Pass Percentage",
+      "date":        "2024-07-01",
+      "category":    "Achievement",
+      "description": "Sunrise Academy achieved 97% pass rate in AHSEC 2024. Congratulations to all students!",
+      "pdfUrl":      "#",
+      "isImportant": false
+    }
+  ],
+
+  "academic": {
+    "session":  "2025-26",
+    "lastDate": "March 31, 2025",
+    "seats": {
+      "arts":     40,
+      "science":  45,
+      "commerce": 30
+    }
+  },
+
+  "documents": {
+    "prospectus":      "https://drive.google.com/uc?export=download&id=SAMPLE_PROSPECTUS_ID",
+    "applicationForm": "https://drive.google.com/uc?export=download&id=SAMPLE_APPFORM_ID",
+    "brochure":        "https://drive.google.com/uc?export=download&id=SAMPLE_BROCHURE_ID"
+  },
+
+  "forms": {
+    "enquiry": "https://docs.google.com/forms/d/e/SAMPLE_FORM_ID/viewform?embedded=true",
+    "contact": "https://docs.google.com/forms/d/e/SAMPLE_CONTACT_FORM_ID/viewform?embedded=true"
+  },
+
+  "stats": {
+    "yearsOfExcellence": 20,
+    "alumniCount":       3500,
+    "facultyCount":      35,
+    "passPercentage":    97,
+    "studentsCount":     1200,
+    "classrooms":        22,
+    "labs":              4,
+    "libraryBooks":      8000
+  },
+
+  "gallery": {
+    "campus": [
+      { "url": "https://images.unsplash.com/photo-1562774053-701939374585?w=800", "title": "Main Building",   "desc": "Our campus in Nagaon" },
+      { "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800", "title": "Smart Class", "desc": "Digital learning environment" }
+    ]
+  }
+}
