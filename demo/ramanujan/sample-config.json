@@ -1,20 +1,20 @@
 {
-  "_demoId": "sample-school",
+  "_demoId": "ramanujan",
 
   "school": {
-    "name":        "Sunrise Higher Secondary Academy",
-    "shortName":   "SHSA",
-    "tagline":     "Illuminating Minds Since 2005",
-    "description": "Sunrise Higher Secondary Academy offers top-tier coaching in Arts, Science & Commerce. AHSEC Affiliated. Admissions open for 2025-26.",
-    "established": "2005",
+    "name":        "Ramanujan Academy Senior Secondary school",
+    "shortName":   "",
+    "tagline":     "Illuminating Minds Since 2016",
+    "description": "Ramanujan Academy Senior Secondary school offers top-tier coaching in Arts and Science. AHSEC Affiliated. Admissions open for 2025-26.",
+    "established": "2016",
     "affiliation": "AHSEC",
     "boardCode":   "18099",
 
     "hero": {
-      "badge":     "#1 AHSEC Results in Nagaon",
+      "badge":     "#1 AHSEC Results at Baihata Chariali",
       "heading":   "Bright Minds",
       "highlight": "Brilliant Futures",
-      "subtext":   "Join Sunrise Academy for expert coaching in Arts, Science & Commerce. 95%+ board results. Admissions open for 2025-26.",
+      "subtext":   "Join Ramanujan Academy for expert coaching in Arts & Science. 95%+ board results. Admissions open for 2025-26.",
       "btn1Text":  "Apply Now",
       "btn1Link":  "admission.html",
       "btn2Text":  "Download Brochure",
@@ -23,29 +23,29 @@
     },
 
     "contact": {
-      "phone":    "+91 98765 43210",
-      "phone2":   "+91 98765 43211",
-      "email":    "info@sunriseacademy.edu.in",
-      "email2":   "admissions@sunriseacademy.edu.in",
-      "whatsapp": "919876543210",
-      "hours":    "Mon–Sat: 8 AM – 5 PM"
+      "phone":    "+91 98640 44668(Rector)",
+      "phone2":   "+91 70866 30817( MD )",
+      "email":    "ramanujanacademybc@gmail.com",
+      "email2":   "",
+      "whatsapp": "7086630817",
+      "hours":    "Mon–Sat: 8:00AM – 4:00PM"
     },
 
     "location": {
-      "address":     "Station Road, Nagaon",
-      "city":        "Nagaon",
+      "address":     "Baihata Chariali",
+      "city":        "Baihata Chariali",
       "state":       "Assam",
-      "pincode":     "782001",
-      "landmark":    "Near Nagaon Railway Station",
-      "fullAddress": "Station Road, Nagaon, Assam – 782001",
+      "pincode":     "781381",
+      "landmark":    "Near Pub Kamrup College",
+      "fullAddress": "Goreswar Road,near PKC, Assam – 781381",
       "mapEmbed":    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57410.14!2d92.6833!3d26.3465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37540010c0aa7fed%3A0xc0b3c7b0e6f2b7a0!2sNagaon%2C%20Assam!5e0!3m2!1sen!2sin!4v1620000000000",
       "googleMapsUrl": "https://maps.google.com/?q=Nagaon,Assam"
     },
 
     "social": {
-      "facebook":  "https://facebook.com/sunriseacademy",
-      "instagram": "https://instagram.com/sunriseacademy",
-      "youtube":   "https://youtube.com/sunriseacademy",
+      "facebook":  "https://facebook.com/",
+      "instagram": "https://instagram.com/",
+      "youtube":   "https://youtube.com/",
       "linkedin":  "#",
       "twitter":   "#"
     }
@@ -67,20 +67,30 @@
 
   "people": {
     "principal": {
-      "name":          "Dr. Anita Sharma",
+      "name":          "Dr. Kamal Sarma",
       "designation":   "Principal",
-      "qualification": "Ph.D. – Gauhati University",
-      "experience":    "20+ years",
+      "qualification": "Ph.D;Ex-Lecturer of PKC",
+      "experience":    "40+ years",
       "photo":         "https://randomuser.me/api/portraits/women/48.jpg",
-      "message":       "Our goal is to nurture every student's potential and prepare them for a life of excellence."
+      "message":       "Respected Parents and dear Students, At the very beginning I welcome you to this premier institute of holistic learning in the field of Science and Humanities at the secondary level. I genuinely express my deep gratitude to the teachers and managing committee for offering me this great opportunity to serve in this esteemed institution as Principal.
+
+We, the Team-Ramanujan, do work with a belief that success itself is a journey of continuous struggles and hardworks. It can never be static or one stop destination. We deliver formal education based on a set curriculum with a difference but within the framework of a traditional schooling system. We not only inspire students to discover their innate capabilities, and to set life-long goals but also help them to work proactively towards the fulfilment of the same. Our backbone is the strong team of highly experienced teachers, and a hard working managing committee whose tireless efforts have elevated us to the level where we can now see ourselves as a premier institute of repute in the education sector of Assam.
+
+Dear students, when you are with us, we promise to share with you our knowledge, experiences and ideas so that you always keep growing, rising and extending your boundaries. Let us march together ahead for excellence."
     },
     "director": {
-      "name":          "Mr. Bimal Hazarika",
-      "designation":   "Founder & Director",
-      "qualification": "M.Sc., B.Ed",
+      "name":          "Mr. Mridul Sarma",
+      "designation":   "Founder & MD",
+      "qualification": "",
       "experience":    "25+ years",
       "photo":         "https://randomuser.me/api/portraits/men/55.jpg",
-      "message":       "Education transforms lives. We are committed to giving every student the best possible start."
+      "message":       "Respected parents and dear students, at the outset we would like to welcome you to Ramanujan Academy Senior Secondary School, Baihata Chariali, a Junior College and Integrated Academy of Science & Arts and introduce you to our goal - “Your dream, our mission”.
+
+It gives us great pleasure to write a few words for the students and dear parents. Ramanujan Academy Senior Secondary School was established in 2014 with the intention of offering value-based and quality education in this area. We believe that the success of any nation depends on youth who further depends upon the quality of instruction that can be achieved by knowledge and its application. It is indeed a matter of great pride that Ramanujan Academy Senior Secondary School, Baihata Chariali has made outstanding progress in this aspect.
+
+Our institution has already laid foundation to various measures being taken for fulfilling the desired objectives of achieving excellence in the field of providing quality education. It gives us profound privilege to share that our academy is well equipped with advance labs, library, smart classroom etc. The additional English medium batch in both Science and Arts is itself unique in the whole North Kamrup area.
+
+We are confident that with the collaborative efforts of all, we will scale up to the greater heights of excellence in the years to come. Once again, dear students we welcome you to Ramanujan Academy Senior Secondary School, Baihata Chariali with the hope that your learning will be meaningful and rewarding in this institution.."
     }
   },
 
@@ -132,7 +142,7 @@
   "notices": [
     {
       "id":          1,
-      "title":       "Admissions Open 2025-26 – Arts, Science & Commerce",
+      "title":       "Admissions Open 2025-26 – Arts & Science",
       "date":        "2025-02-10",
       "category":    "Admission",
       "description": "Applications are now open for Class 11. Limited seats. Apply before March 31, 2025.",
@@ -199,11 +209,11 @@
   },
 
   "stats": {
-    "yearsOfExcellence": 20,
+    "yearsOfExcellence": 10,
     "alumniCount":       3500,
     "facultyCount":      35,
-    "passPercentage":    97,
-    "studentsCount":     1200,
+    "passPercentage":    100,
+    "studentsCount":     800,
     "classrooms":        22,
     "labs":              4,
     "libraryBooks":      8000
